@@ -15,5 +15,3 @@ https://www.youtube.com/watch?v=lUdwOqK1184
 
 Bilibili：
 https://www.bilibili.com/video/BV1yq4y1z7kd?spm_id_from=333.999.0.0
-
-If this does not work, please see video in this zip file, named "CYXDDminiproject".
